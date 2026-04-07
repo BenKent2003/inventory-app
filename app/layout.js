@@ -1,8 +1,8 @@
 import './globals.css';
 
 export const metadata = {
-  title: 'Machinery Parts Inventory',
-  description: 'Track stock, machines, and parts used on each machine.'
+  title: 'Albion Engineering Inventory',
+  description: 'Inventory, stock logging, machine usage, and analytics dashboard.',
 };
 
 export default function RootLayout({ children }) {
