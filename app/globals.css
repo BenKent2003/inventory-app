@@ -10,7 +10,7 @@ button,input,textarea,select{font:inherit}
 .topbar{background:linear-gradient(135deg,var(--ink),var(--charcoal));border:1px solid var(--border);border-radius:28px;color:#fff;padding:20px;display:flex;justify-content:space-between;gap:20px;flex-wrap:wrap}
 .actions,.row{display:flex;gap:10px;align-items:center;flex-wrap:wrap}
 .spread{justify-content:space-between}
-.logo{height:72px;width:auto;padding:10px;background:rgba(255,255,255,.05);border-radius:24px;border:1px solid rgba(255,255,255,.12)}
+.logo{height:72px;width:auto;padding:10px;background:#fff(255,255,255,.05);border-radius:24px;border:1px solid rgba(255,255,255,.12)}
 .btn{border:none;background:var(--greenDeep);color:#fff;padding:10px 14px;border-radius:15px;cursor:pointer}
 .btn.outline{background:#fff;color:#111;border:1px solid #d1d5db}
 .btn.ghost{background:transparent;color:inherit;border:1px solid rgba(255,255,255,.15)}
